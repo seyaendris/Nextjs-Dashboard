@@ -1,8 +1,8 @@
 
-const page = () => {
+const Invoices = () => {
   return (
-    <div>page</div>
+    <div>Invoices</div>
   )
 }
 
-export default page
+export default Invoices

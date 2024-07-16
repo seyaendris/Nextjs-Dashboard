@@ -1,8 +1,8 @@
 
-const page = () => {
+const Customers = () => {
   return (
-    <div>page</div>
+    <div>Customers</div>
   )
 }
 
-export default page
+export default Customers
